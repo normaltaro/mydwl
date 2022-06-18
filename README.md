@@ -1,3 +1,4 @@
+its a fork or something, i do not know computers
 # dwl - dwm for Wayland
 
 Join us on our [Discord server](https://discord.gg/jJxZnrGPWN)!
